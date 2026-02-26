@@ -1,0 +1,4 @@
+- [x] Create index.html with UI: input for first number, select for operator (+,-,*,/), input for second number, button to calculate, div for result
+- [x] Create script.js with arithmetic functions: add, subtract, multiply, divide, and calculate function to handle inputs
+- [x] Create style.css for basic styling of the calculator
+- [x] Test the application by opening index.html in browser
